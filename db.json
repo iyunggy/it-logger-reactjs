@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "l222",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-09-22T06:25:08.278Z"
+    },
+    {
+      "message": "iyung",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-09-22T06:49:52.362Z",
+      "id": 2
+    },
+    {
+      "message": "anisa",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-09-22T08:38:38.714Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 4,
+      "firstName": "Irul",
+      "lastName": "Anwar"
+    },
+    {
+      "firstName": "khoirul",
+      "lastName": "1",
+      "id": 5
+    }
+  ]
+}
